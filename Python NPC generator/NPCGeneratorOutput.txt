@@ -1,0 +1,28 @@
+Trukaruk
+Character Race: 
+Half-Orc
+Character Class: 
+Warlock
+Character Gear: 
+Pack, Bedroll, Hooded Lantern, 5x Rations, Spell Components Pouch
+Character Gold: 
+
+
+Sinjin Tifuboror
+Character Race: 
+Gnome
+Character Class: 
+Cleric
+Character Gear: 
+Scale Mail, Longsword, Small Wooden Shield, Pack, 5x Rations, Holy Symbol
+Character Gold: 
+Relad Wyvernrunner
+Character Race: 
+Human
+Character Class: 
+Warlock
+Character Gear: 
+Pack, Bedroll, Hooded Lantern, 5x Rations, Spell Components Pouch
+Character Gold: 
+
+

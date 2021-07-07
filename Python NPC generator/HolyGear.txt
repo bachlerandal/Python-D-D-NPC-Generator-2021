@@ -1,0 +1,7 @@
+Scale Mail, Heavy Mace, Large Wooden Shield, Light Crossbow, 10x Bolts, Pack, 4x Rations, Holy Symbol
+Scale Mail, Warhammer, Pack, 2x Rations, Holy Symbol
+Scale Mail, Longsword, Short Bow, 12x Arrows, Pack, 5x Rations, Holy Symbol
+Scale Mail, BattleAxe, Pack, 5x Rations, Holy Symbol
+Scale Mail, Longsword, Small Wooden Shield, Pack, 5x Rations, Holy Symbol
+Maille Shirt, Short Spear, Heavy Crossbow, 6x Bolts, Pack, 5x Rations, Holy Symbol
+Maille Shirt, Short Sword, Heavy Crossbow, 6x Bolts, Pack, 2x Rations, Holy Symbol

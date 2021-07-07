@@ -1,0 +1,4 @@
+Leather Armor, Short Sword, Light Crossbow, 6x Bolts, Dagger, 2x Rations, Thieves Tools, Hooded Lantern, Pack
+Leather Armor, Short Sword, Dagger, 4x Rations, Pack
+Studded Armor, Rapier, Dagger, 4x Throwing Knives, 2x Rations, Pack
+Hide Armor, Short Sword, Dagger, Short Bow, 12x Arrows, 4x Rations, Pack
